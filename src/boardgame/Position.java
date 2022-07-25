@@ -1,11 +1,11 @@
 package boardgame;
 
-public class Postion {
+public class Position {
 
     private int row;
     private int colum;
 
-    public Postion(int row, int colum) {
+    public Position(int row, int colum) {
         this.row = row;
         this.colum = colum;
     }
