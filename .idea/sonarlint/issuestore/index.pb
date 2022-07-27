@@ -7,8 +7,6 @@ H
 src/boardgame/Board.java,e\4\e4b0a6df6d57bc0ccb9e957539275a4cbde2513e
 G
 src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
-L
-src/application/Program.java,a\b\ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
 Q
 !src/boardgame/BoardException.java,c\d\cd20c15b434e2bd9d33b559985a9b393401fdb2d
 I
